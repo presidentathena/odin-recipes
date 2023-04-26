@@ -1,0 +1,17 @@
+* {
+    background-color: blanchedalmond;
+}
+
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+img {
+    height: 230px;
+    width: 300px;
+}
+
+ul {
+    list-style: none;
+}
