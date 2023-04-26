@@ -20,3 +20,7 @@ ul {
 .recipe-text {
     text-align: left;
 }
+
+.underline {
+    text-decoration: underline;
+}
