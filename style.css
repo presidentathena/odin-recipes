@@ -15,3 +15,7 @@ img {
 ul {
     list-style: none;
 }
+
+.recipe-text {
+    text-align: left;
+}
